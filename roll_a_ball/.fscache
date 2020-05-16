@@ -1,0 +1,10 @@
+::res://::1422252490
+camera_control.gd::GDScript::1422252490::
+cube.msh::Mesh::1422252490::mesh<>../../primitives/cube.obj<>89bbb762dadb739817e85c51f4a58c7d<>1421025729
+icon.png::ImageTexture::1422252490::
+level.scn::PackedScene::1422252490::
+pick_up.scn::PackedScene::1422252490::
+pick_up_spin.gd::GDScript::1422252490::
+plane.msh::Mesh::1422252490::mesh<>../../primitives/plane.obj<>f8955f7ec6b6dd2a1833dc2ca4badf16<>1421025766
+player_control.gd::GDScript::1422252490::
+sphere.msh::Mesh::1422252490::mesh<>../../primitives/sphere.obj<>56c323a5a85065ac83ab2635a7d09917<>1421025806
